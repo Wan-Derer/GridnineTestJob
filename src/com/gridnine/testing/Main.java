@@ -36,7 +36,6 @@ public class Main {
         applyFiltersAndPrintList(flightList, filters2, "Filters Set #2");
         applyFiltersAndPrintList(flightList, filters3, "Filters Set #3");
 
-
     }
 
     private static void applyFiltersAndPrintList
